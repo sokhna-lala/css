@@ -1,0 +1,58 @@
+
+
+nav  li 
+
+{
+    display: inline-block; 
+    margin-right: -4px;
+    justify-content: flex-start ; 
+    
+}
+
+nav ul li{
+    margin: 10PX;
+  }
+
+  .vetements{
+    color: #ca2111
+    
+
+  }
+  .chaussures{
+    color: #ca2111
+  }
+  .parfums{
+    color: #ca2111
+  }
+  .bijoux{
+    color: #ca2111
+  }
+  * {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 20dx;
+    font-style: normal;
+  }
+  
+  header {
+    height: 50px;
+    background-color: rgb(201, 94, 94);
+   border:  5px ;
+
+  }
+  body {
+    background-image:url(back.png) ;
+    background-attachment: fixed;
+   }
+   .para1{
+  color: hsl(0, 22%, 95%);
+   }
+   .para2{
+    color: hsl(0, 22%, 95%);
+     }
+     .para3{
+        color: hsl(0, 22%, 95%);
+         }
+         .para4{
+            color: hsl(0, 22%, 95%);
+             }
